@@ -1,0 +1,10 @@
+{
+    "name": "htto/debian-oldstable-composer",
+    "authors": [
+        {
+            "name": "Heiko Przybyl",
+            "email": "htto@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
